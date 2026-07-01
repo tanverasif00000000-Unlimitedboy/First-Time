@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std; //ghkfuewhufegbv
 
 int main() {
     char s[1000];
